@@ -8,4 +8,12 @@ Sample website with plenty of files for demos
 
 ## Deployment 
 
-deployment section 
+deployment section
+
+## Introduction
+
+this is an intro
+
+## Resources
+
+this is resources section 
